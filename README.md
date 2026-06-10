@@ -1,6 +1,6 @@
 # astro-core
 
-Rust library and CLI for **Western numerology** and **sun sign** calculations ? the math layer behind [Digital Oracle](https://github.com/YehhiAleksandra/digital-oracle).
+Rust library and CLI for **Western numerology** and **sun sign** calculations — the math layer behind [Зинаида](https://github.com/YehhiAleksandra/digital-oracle).
 
 No LLM, no network. Pure deterministic logic you can embed in bots, Mini Apps, or WASM.
 
@@ -36,9 +36,13 @@ let sign = sun_sign(birth.day, birth.month);
 
 ## Related
 
-- [zinaida-mini-app](https://github.com/YehhiAleksandra/zinaida-mini-app) ? Telegram Mini App UI
-- [digital-oracle](https://github.com/YehhiAleksandra/digital-oracle) ? Telegram bot
+- [zinaida-mini-app](https://github.com/YehhiAleksandra/zinaida-mini-app) — Telegram Mini App UI
+- [digital-oracle](https://github.com/YehhiAleksandra/digital-oracle) — Telegram bot
 
 ## License
 
-MIT ? see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE).
+
+---
+
+<p align="center"><sub><a href="https://github.com/YehhiAleksandra">@YehhiAleksandra</a> · Yehhi Aleksandra · Telegram bots & automation</sub></p>
